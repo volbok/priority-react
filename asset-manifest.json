@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/priority-reactjs/static/css/main.3695e230.chunk.css",
-    "main.js": "/priority-reactjs/static/js/main.5ca7cce9.chunk.js",
-    "main.js.map": "/priority-reactjs/static/js/main.5ca7cce9.chunk.js.map",
-    "runtime-main.js": "/priority-reactjs/static/js/runtime-main.9a582055.js",
-    "runtime-main.js.map": "/priority-reactjs/static/js/runtime-main.9a582055.js.map",
-    "static/css/2.0624914a.chunk.css": "/priority-reactjs/static/css/2.0624914a.chunk.css",
-    "static/js/2.9826f26d.chunk.js": "/priority-reactjs/static/js/2.9826f26d.chunk.js",
-    "static/js/2.9826f26d.chunk.js.map": "/priority-reactjs/static/js/2.9826f26d.chunk.js.map",
-    "index.html": "/priority-reactjs/index.html",
-    "precache-manifest.5640737553ed9f604151ae0be96b189a.js": "/priority-reactjs/precache-manifest.5640737553ed9f604151ae0be96b189a.js",
-    "service-worker.js": "/priority-reactjs/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/priority-reactjs/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.3695e230.chunk.css.map": "/priority-reactjs/static/css/main.3695e230.chunk.css.map",
-    "static/media/ding.mp3": "/priority-reactjs/static/media/ding.7d0a9df5.mp3",
-    "static/media/logo.svg": "/priority-reactjs/static/media/logo.88c9da57.svg"
+    "main.css": "/priority-react/static/css/main.3695e230.chunk.css",
+    "main.js": "/priority-react/static/js/main.288ced8d.chunk.js",
+    "main.js.map": "/priority-react/static/js/main.288ced8d.chunk.js.map",
+    "runtime-main.js": "/priority-react/static/js/runtime-main.ebc63aae.js",
+    "runtime-main.js.map": "/priority-react/static/js/runtime-main.ebc63aae.js.map",
+    "static/css/2.0624914a.chunk.css": "/priority-react/static/css/2.0624914a.chunk.css",
+    "static/js/2.238e39fc.chunk.js": "/priority-react/static/js/2.238e39fc.chunk.js",
+    "static/js/2.238e39fc.chunk.js.map": "/priority-react/static/js/2.238e39fc.chunk.js.map",
+    "index.html": "/priority-react/index.html",
+    "precache-manifest.0aa2b5227dd5add3e6da558f82e64441.js": "/priority-react/precache-manifest.0aa2b5227dd5add3e6da558f82e64441.js",
+    "service-worker.js": "/priority-react/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/priority-react/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.3695e230.chunk.css.map": "/priority-react/static/css/main.3695e230.chunk.css.map",
+    "static/media/ding.mp3": "/priority-react/static/media/ding.7d0a9df5.mp3",
+    "static/media/logo.svg": "/priority-react/static/media/logo.88c9da57.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a582055.js",
+    "static/js/runtime-main.ebc63aae.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.9826f26d.chunk.js",
+    "static/js/2.238e39fc.chunk.js",
     "static/css/main.3695e230.chunk.css",
-    "static/js/main.5ca7cce9.chunk.js"
+    "static/js/main.288ced8d.chunk.js"
   ]
 }
