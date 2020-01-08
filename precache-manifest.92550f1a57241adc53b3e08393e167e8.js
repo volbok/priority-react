@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "815e026cfa0f47531341035c1e11c6bd",
+    "revision": "abad6eca459b37939d5cd81cd0541294",
     "url": "/priority-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/priority-react/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "ebb8e95df24e8646933f",
+    "revision": "cd09d6bd7ab13390e141",
     "url": "/priority-react/static/css/main.3695e230.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/priority-react/static/js/2.c3f24852.chunk.js"
   },
   {
-    "revision": "ebb8e95df24e8646933f",
-    "url": "/priority-react/static/js/main.a8620034.chunk.js"
+    "revision": "cd09d6bd7ab13390e141",
+    "url": "/priority-react/static/js/main.4210ad1c.chunk.js"
   },
   {
     "revision": "d4ac15a2a034ea004f41",
