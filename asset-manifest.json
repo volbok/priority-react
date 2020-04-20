@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/priority-react/static/css/main.6e4110dc.chunk.css",
-    "main.js": "/priority-react/static/js/main.cdf5ac80.chunk.js",
-    "main.js.map": "/priority-react/static/js/main.cdf5ac80.chunk.js.map",
+    "main.css": "/priority-react/static/css/main.d551ebe2.chunk.css",
+    "main.js": "/priority-react/static/js/main.13617f50.chunk.js",
+    "main.js.map": "/priority-react/static/js/main.13617f50.chunk.js.map",
     "runtime-main.js": "/priority-react/static/js/runtime-main.3915fd7d.js",
     "runtime-main.js.map": "/priority-react/static/js/runtime-main.3915fd7d.js.map",
     "static/css/2.1e1d4471.chunk.css": "/priority-react/static/css/2.1e1d4471.chunk.css",
-    "static/js/2.396f2ba1.chunk.js": "/priority-react/static/js/2.396f2ba1.chunk.js",
-    "static/js/2.396f2ba1.chunk.js.map": "/priority-react/static/js/2.396f2ba1.chunk.js.map",
+    "static/js/2.efb61bc6.chunk.js": "/priority-react/static/js/2.efb61bc6.chunk.js",
+    "static/js/2.efb61bc6.chunk.js.map": "/priority-react/static/js/2.efb61bc6.chunk.js.map",
     "index.html": "/priority-react/index.html",
-    "precache-manifest.a529baf074fbd45dd7c3537ce3387a5e.js": "/priority-react/precache-manifest.a529baf074fbd45dd7c3537ce3387a5e.js",
+    "precache-manifest.a6c709c658eef9f33d020bf2961f20a0.js": "/priority-react/precache-manifest.a6c709c658eef9f33d020bf2961f20a0.js",
     "service-worker.js": "/priority-react/service-worker.js",
     "static/css/2.1e1d4471.chunk.css.map": "/priority-react/static/css/2.1e1d4471.chunk.css.map",
-    "static/css/main.6e4110dc.chunk.css.map": "/priority-react/static/css/main.6e4110dc.chunk.css.map",
-    "static/js/2.396f2ba1.chunk.js.LICENSE.txt": "/priority-react/static/js/2.396f2ba1.chunk.js.LICENSE.txt",
+    "static/css/main.d551ebe2.chunk.css.map": "/priority-react/static/css/main.d551ebe2.chunk.css.map",
+    "static/js/2.efb61bc6.chunk.js.LICENSE.txt": "/priority-react/static/js/2.efb61bc6.chunk.js.LICENSE.txt",
     "static/media/ding.mp3": "/priority-react/static/media/ding.7d0a9df5.mp3",
     "static/media/logo.png": "/priority-react/static/media/logo.cb28b437.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3915fd7d.js",
     "static/css/2.1e1d4471.chunk.css",
-    "static/js/2.396f2ba1.chunk.js",
-    "static/css/main.6e4110dc.chunk.css",
-    "static/js/main.cdf5ac80.chunk.js"
+    "static/js/2.efb61bc6.chunk.js",
+    "static/css/main.d551ebe2.chunk.css",
+    "static/js/main.13617f50.chunk.js"
   ]
 }
